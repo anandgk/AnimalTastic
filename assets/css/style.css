@@ -1,0 +1,43 @@
+#gifs-area { 
+  float: left;
+  width: 70%;
+}
+
+#animal-form {
+  float: right;
+  margin-right: 30px;
+  width: 20%;
+}
+
+.giphy-style {
+  float: left;
+  padding: 2px;
+  color: #BF3F3F;
+}
+
+button	{
+	background-color: #3F7FBF;
+	color: #fff;
+	font-size: 12px;
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+
+button:hover	{
+	background-color: #BF3F7F;
+}
+
+#addAnimal {
+	background-color: #BF3F7F;
+	color: #fff;
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+
+#image-area {
+  clear: both;
+ 	position: absolute;
+  margin-right: 30px;
+  margin-top: 200px;
+  margin-left: 77%;
+}
